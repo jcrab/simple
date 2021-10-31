@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# vim temp files
+*.un~
+
 # Log file
 *.log
 
